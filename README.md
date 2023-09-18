@@ -1,6 +1,7 @@
-![lwiw5p11nj1a1](https://github.com/junius7even/junius7even/assets/33168288/999a18bd-1d19-4987-98bd-632d34dd23ea)
+![lwiw5p11nj1a1](https://github.com/junius7even/junius7even/assets/33168288/f0c3f262-3829-4e22-b862-58f224916ba6)
 <h1 align="left"> Hi there👋! I'm Haotian</h1>
 Welcome to my page.
+
 
 I'm a passionate aspiring game developer studying Computer Engineering at the University of Waterloo! 
 
