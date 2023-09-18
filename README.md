@@ -1,4 +1,5 @@
-![lwiw5p11nj1a1](https://github.com/junius7even/junius7even/assets/33168288/f0c3f262-3829-4e22-b862-58f224916ba6)
+![lwiw5p11nj1a1](https://github.com/junius7even/junius7even/assets/33168288/091142cf-c408-4059-9ac8-4f2ca990b126)
+
 <h1 align="left"> Hi there👋! I'm Haotian</h1>
 Welcome to my page.
 
